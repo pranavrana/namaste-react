@@ -1,0 +1,4 @@
+1) Types of dependancies
+-> 2 types of dependancies (dev and normal dependancy) use -D as parameter while running install command eg. npm install -D parcel
+2) node modules have so any folders because it has depencancy and those depencancies have their own depencancies which is known as transitive depencancy.
+3) npx is used to excecute the package (npx parcel index.html)
