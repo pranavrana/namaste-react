@@ -43,3 +43,8 @@ cursor: pointer;
     height: 30%;
     object-fit: cover;
 }
+
+.filter-btn {
+    margin: 10px;
+    cursor: pointer;
+}
